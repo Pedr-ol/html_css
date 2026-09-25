@@ -2,7 +2,8 @@
 
 Repositório destinado aos estudos, exercícios e projetos desenvolvidos durante o aprendizado de **HTML5 e CSS3**. 
 Do curso Formação Front-end - HTML, CSS, JavaScript, React e +
-Ministrada por: Matheus Battisti
+
+*Ministrada por: Matheus Battisti*
 
 
 ## 📚 Conteúdos
